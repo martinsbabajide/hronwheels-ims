@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/HR_on_Wheels_IMS_v2.html" }
+    { "source": "/", "destination": "/index.html" }
   ]
 }
